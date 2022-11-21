@@ -1,2 +1,2 @@
 # Movie_Ticket_Booking_System
-Database Management System Mini Projec
+Database Management System Mini Project
